@@ -1,0 +1,13 @@
+{
+    "name": "shirase55/ckeditor-inlinesave",
+    "authors": [
+        {
+            "name": "shirase",
+            "email": "shirase55@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "ckeditor/ckeditor": "^4.6"
+    }
+}
