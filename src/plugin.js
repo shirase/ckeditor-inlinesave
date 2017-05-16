@@ -69,7 +69,7 @@ For licensing, see LICENSE.html or http://ckeditor.com/license
 
 			editor.ui.addButton( 'InlineSave',
 				{
-					label : editor.lang.save.toolbar,
+					label : 'Save',
 					command : pluginName
 				});
 		}
